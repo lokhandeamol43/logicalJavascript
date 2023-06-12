@@ -9,5 +9,9 @@ for(let i=0; i<array.length; i++){
         alphabets.push(array[i]);
     }
 }
-console.log('Numbers:', numbers);
-console.log('Alphabets:', alphabets);
+console.log("");
+console.log("Given Array :",array);
+console.log("");
+console.log("Numbers :", numbers);
+console.log("");
+console.log("Alphabets :", alphabets);
